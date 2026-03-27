@@ -44,7 +44,7 @@ The battle is shifting from *Acquisition* to *Retention*. Subscription models (l
 ---
 
 ## 📂 Project Files
-* **[Presentation (PDF)](presentation/India_Food_Delivery_Analysis.pdf):** View the full slide deck directly in your browser.
+* **[Food_Delivery_PPT.pdf (PDF)](presentation/India_Food_Delivery_Analysis.pdf):** View the full slide deck directly in your browser.
 * **[Full PPTX](presentation/India_Food_Delivery_Analysis.pptx):** Download the original PowerPoint for animations and detailed notes.
 
 ---
